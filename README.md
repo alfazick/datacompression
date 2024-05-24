@@ -1,0 +1,2 @@
+# datacompression
+data compression algos
