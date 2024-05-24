@@ -1,2 +1,4 @@
-# datacompression
-data compression algos
+# Datacompression
+
+
+1. Naive implementation
